@@ -1,0 +1,6 @@
+@EngEKatalog.API_HostAddress = http://localhost:5278
+
+GET {{EngEKatalog.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

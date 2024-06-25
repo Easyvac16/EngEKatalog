@@ -1,0 +1,176 @@
+{
+  "status": "OK",
+  "request_id": "a8656566-1d60-433a-a669-311b266ad545",
+  "data": {
+    "product": {
+      "product_id": "3209274970867899212",
+      "product_title": "Apple iPhone 14 - 128 GB - Midnight - T-Mobile",
+      "product_description": "The main camera has improved image processing allowing you capture sensational shots in all kinds of light ‚ especially low light. Whether youare filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos. Safety features including emergency SOS via satellite, crash detection call for help when you can't.",
+      "product_photos": [ "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT03Ie2UeDcm5C0aArtZQCG4dZ_LJKNfguBvzfNV1kZADwfcRom&usqp=CAY" ],
+      "product_attributes": {
+        "Features": "Smartphone, With Wireless Charging, With Fast Charging, Water Resistant",
+        "SIM Support": "Single SIM",
+        "Carrier": "T-Mobile",
+        "Lens Quantity": "Dual Lens",
+        "Operating System": "iOS",
+        "Security": "Facial Recognition",
+        "Color": "Midnight"
+      },
+      "product_rating": 4.6,
+      "product_page_url": "https://google.com/shopping/product/3209274970867899212?gl=us&hl=en&prds=pid%3A8364092144536432607",
+      "product_offers_page_url": "https://google.com/shopping/product/3209274970867899212/offers?gl=us&hl=en&prds=pid%3A8364092144536432607",
+      "product_specs_page_url": "https://google.com/shopping/product/3209274970867899212/specs?gl=us&hl=en&prds=pid%3A8364092144536432607",
+      "product_reviews_page_url": "https://google.com/shopping/product/3209274970867899212/reviews?gl=us&hl=en&prds=pid%3A8364092144536432607",
+      "product_num_reviews": 19835,
+      "product_num_offers": "4",
+      "typical_price_range": null,
+      "product_variant_properties": {
+        "Capacity": "128 GB",
+        "Connectivity": "T-Mobile"
+      },
+      "product_variants": {
+        "Capacity": {
+          "128 GB": "3209274970867899212",
+          "256 GB": "3796853298676392470",
+          "512 GB": "13136528717254840814",
+          "512GB": "5641263725124944166"
+        },
+        "Connectivity": {
+          "AT&T": "5025247589799642017",
+          "T-Mobile": "3209274970867899212",
+          "Unlocked": "1230388296225396604",
+          "Verizon": "15917854710475002969",
+          "Verizon Wireless (With Installment Plan)": "2034325709290670335"
+        }
+      },
+      "offer": {
+        "store_name": "Apple",
+        "store_rating": 4.6,
+        "offer_page_url": "https://www.apple.com/us/shop/go/product/MPUA3?cppart=TMOBILE_IPHONE14&purchaseOption=cp&cid=aos-us-seo-pla-iphone",
+        "store_review_count": 6237,
+        "store_reviews_page_url": "https://www.google.com/shopping/ratings/account/metrics?q=apple.com&c=US&v=19&hl=en",
+        "price": "$0.00",
+        "shipping": "Free delivery expected by Jun 21",
+        "tax": "+$71.66 est. tax",
+        "on_sale": false,
+        "original_price": null,
+        "product_condition": "NEW",
+        "top_quality_store": true
+      }
+    },
+    "reviews_sample": [
+      {
+        "review_id": "6352807100606145083",
+        "review_title": "The best of the best of Phones!!!!",
+        "review_author": "Maggie",
+        "review_source": "vzw.com",
+        "review_source_url": "http://verizonwireless.ugc.bazaarvoice.com/6543-en_us/dev19920002/review/228608750/redirect.htm?ctc_referralType=Shopping&ctc_referralDescription=Google",
+        "review_text": "This iPhone 14 replaces my iPhone 11. Please note that I am a long time user of Apple products from the first day those years ago when i was introduced to Apple's desktop computer that looked like something from outer space and everything had to be programmed into it. I love Apple products. Apple products are the best of the best and soo easy to use and if I come up with a problem that I cannot fix, all it takes is a quick message to Apple's wonderful support team. This new Apple Series 14 phone that I just got from Verizon replaces my iPhone Series 11 phone. I really do like this new phone. It is much thinner and lighter in weight than the Series 11 Phone which means that it takes up lesser space in my purse. When I go for my walks the Series 14 phone fits so much better in my pocketed belt that I wear and the lighter weight makes the belt much more comfortable. I have small hands and because of the slimmer size the phone fits nicely in my hands and this is important. Yesterday when out walking, I received a call from my Granddaughter some 2000 miles away. It was nice to be able to hold the phone comfortably in my hand as we talked. And the reception was excellent.....so clear and faultless and my Granddaughter sounded as if she was there walking along beside me as she talked. Then, the Series 14 phone has some new features to explore and enjoy.\n\nThank you Verizon for offering to your customers such a quality phone for signing up for your phone service. I am so grateful for the new phone. I am going to really enjoy my new phone service and this new phone. You are so appreciated.",
+        "rating": 5,
+        "review_datetime_utc": "2023-10-03T00:00:00.000Z",
+        "review_language": "en",
+        "photos": []
+      }
+    ],
+    "reviews_per_rating": {
+      "1": 1024,
+      "2": 304,
+      "3": 677,
+      "4": 1887,
+      "5": 15943
+    },
+    "reviews_insights": {
+      "Easy to use": {
+        "Easy to use": 440,
+        "Difficult to use": 24
+      },
+      "Doesn't impede phone functionality": {
+        "Doesn't impede phone functionality": 215,
+        "Impedes phone functionality": 97
+      },
+      "Quality camera": {
+        "Quality camera": 274,
+        "Low quality camera": 23
+      },
+      "Attractive": {
+        "Attractive": 282,
+        "Unattractive": 9
+      },
+      "Long battery life": {
+        "Long battery life": 254,
+        "Short battery life": 32
+      },
+      "Performs well": {
+        "Performs well": 227,
+        "Performs poorly": 32
+      },
+      "Easy to set up": {
+        "Easy to set up": 175,
+        "Difficult to set up": 25
+      },
+      "Lightweight": {
+        "Lightweight": 95,
+        "Heavy": 31
+      },
+      "Easy to put on/take off": {
+        "Easy to put on/take off": 98,
+        "Difficult to put on/take off": 8
+      },
+      "Durable": {
+        "Durable": 68,
+        "Lacks durability": 22
+      },
+      "Comfortable to use": {
+        "Comfortable to use": 63,
+        "Uncomfortable to use": 10
+      },
+      "Large display": {
+        "Large display": 42,
+        "Small display": 13
+      },
+      "Quality display": {
+        "Quality display": 48,
+        "Low quality display": 0
+      },
+      "Slimness": {
+        "Slim": 17,
+        "Not slim": 27
+      },
+      "Good sound quality": {
+        "Good sound quality": 35,
+        "Poor sound quality": 8
+      },
+      "Charges quickly": {
+        "Charges quickly": 38,
+        "Charges slowly": 4
+      },
+      "Call quality": {
+        "Good call quality": 6,
+        "Poor call quality": 5
+      },
+      "Comfort": {
+        "Comfortable": 8,
+        "Uncomfortable": 2
+      },
+      "Grip quality": {
+        "Good grip": 4,
+        "Poor grip": 6
+      },
+      "Protection": {
+        "Good protection": 1,
+        "Poor protection": 3
+      }
+    },
+    "product_highlights": [],
+    "product_details": {
+      "Features": "Smartphone, With Wireless Charging, With Fast Charging, Water Resistant",
+      "SIM Support": "Single SIM",
+      "Carrier": "T-Mobile",
+      "Lens Quantity": "Dual Lens",
+      "Operating System": "iOS",
+      "Security": "Facial Recognition",
+      "Color": "Midnight"
+    },
+    "product_specs": {}
+  }
+}
